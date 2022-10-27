@@ -1,27 +1,25 @@
-# Varuna
+# Varuna
+
+_wip_
+
 Varuna is a virtual pet collecting game designed to provoke reality, and make virtual existence.
 
-## Getting Started
+## Game
 
-First, run the development server:
+The game is a virtual pet collecting game, where you can collect pets, and take care of them.. You can also play with other people's pets, and make friends with them, merge or produce.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Entity
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Entitties are fundemental things in Varuna. It has no needs like normal animal being(food, drinks, etc.). Entities only need some kind of emotions. You can provide emotions by collection emotion shards.
 
-## Learn More
+### Emotion Shard
 
-To learn more about Next.js, take a look at the following resources:
+Emotion shards are the only way to provide emotions to entities. You can collect emotion shards by playing the game.(more info needed)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Entity Types
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+There are 3 types of entities in Varuna.
 
-## Contributing
-
-If you want to contribute to this project, please read the...
+- **Normal Entity**: This is the most common entity in Varuna. It has no special ability.
+- **Rare Entity**: This is a rare entity. It has a special ability.(more info needed)
+- **Legendary Entity**: This is a legendary entity. It has a special ability.(more info needed)
